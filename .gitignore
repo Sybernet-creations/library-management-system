@@ -1,3 +1,17 @@
-# ignore venv
-.venv/
+# .gitignore
 
+# Virtual environment
+venv/
+
+# Database file
+db.sqlite3
+
+# media
+media/
+
+# Ignore static files
+static/
+__pycache__/
+*.pyc
+
+# igonre 
